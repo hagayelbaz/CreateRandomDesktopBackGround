@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRandomDesktopBackGround", "CreateRandomDesktopBackGround\CreateRandomDesktopBackGround.csproj", "{F9C8F273-F676-4643-BE90-9504A5280000}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RandomDesktopBackGround", "RandomDesktopBackGround\RandomDesktopBackGround.vdproj", "{68937D4D-D7D6-4B08-98BE-68D36C1886C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C8F273-F676-4643-BE90-9504A5280000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C8F273-F676-4643-BE90-9504A5280000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C8F273-F676-4643-BE90-9504A5280000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C8F273-F676-4643-BE90-9504A5280000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68937D4D-D7D6-4B08-98BE-68D36C1886C1}.Debug|Any CPU.ActiveCfg = Debug
+		{68937D4D-D7D6-4B08-98BE-68D36C1886C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46C16A1-4132-4E31-B350-5EDB2BC898AA}
+	EndGlobalSection
+EndGlobal

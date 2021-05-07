@@ -1,0 +1,14 @@
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.csproj.CoreCompileInputs.cache
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\bin\Debug\CreateRandomDesktopBackGround.exe.config
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\bin\Debug\CreateRandomDesktopBackGround.exe
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\bin\Debug\CreateRandomDesktopBackGround.pdb
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.exe
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.pdb
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.Installer1.resources
+C:\Users\hagay\source\repos\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.csproj.GenerateResource.cache
+D:\גיבוי מחשב חדש\visual studio\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\bin\Debug\CreateRandomDesktopBackGround.exe.config
+D:\גיבוי מחשב חדש\visual studio\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\bin\Debug\CreateRandomDesktopBackGround.exe
+D:\גיבוי מחשב חדש\visual studio\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\bin\Debug\CreateRandomDesktopBackGround.pdb
+D:\גיבוי מחשב חדש\visual studio\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.csproj.CoreCompileInputs.cache
+D:\גיבוי מחשב חדש\visual studio\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.exe
+D:\גיבוי מחשב חדש\visual studio\CreateRandomDesktopBackGround\CreateRandomDesktopBackGround\obj\Debug\CreateRandomDesktopBackGround.pdb
